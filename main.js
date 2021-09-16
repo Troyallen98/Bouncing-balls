@@ -7,6 +7,7 @@ const width = canvas.width = window.innerWidth;
 const height = canvas.height = window.innerHeight;
 
 // function to generate random number
+// test
 
 function random(min, max) {
   const num = Math.floor(Math.random() * (max - min + 1)) + min;
